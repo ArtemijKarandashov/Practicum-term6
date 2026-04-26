@@ -2,4 +2,4 @@
 Отчет доступен в файле "Практикум-ЛР-2.pdf"
 
 ## Результаты работы программы:
-<img src="./compression_comparison">
+<img src="./compression_comparison.png">
